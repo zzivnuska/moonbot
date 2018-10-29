@@ -1,4 +1,4 @@
 # moon bot
 
-does very little
+does very little.
 also is trash atm
